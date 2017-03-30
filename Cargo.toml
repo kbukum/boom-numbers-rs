@@ -1,0 +1,9 @@
+[package]
+name = "boom_numbers_rs"
+version = "0.1.0"
+authors = ["kbukum <kamilbukum@gmail.com>"]
+
+[dependencies]
+regex = "*"
+text_io="*"
+lazy_static="*"
