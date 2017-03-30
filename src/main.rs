@@ -13,7 +13,7 @@ fn main() {
      // Infinite loop
     println!("use `quit` to exit from program"); 
     loop {
-        println!("Enter Number : ");
+        println!("Enter Boom Number : ");
         let line: String = read!();
         match &line as &str {
             "quit" => { 
